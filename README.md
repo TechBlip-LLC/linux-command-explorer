@@ -2,7 +2,7 @@
 
 > A modern, interactive web application for exploring and learning Linux commands with practical examples
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  [![React](https://img.shields.io/badge/React-18.3-blue.svg)](https://reactjs.org/)  [![TypeScript](https://img.shields.io/badge/TypeScript-5.5-blue.svg)](https://www.typescriptlang.org/)  [![Vite](https://img.shields.io/badge/Vite-5.4-646CFF.svg)](https://vitejs.dev/)  [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.4-38B2AC.svg)](https://tailwindcss.com/)
+ [![React](https://img.shields.io/badge/React-18.3-blue.svg)](https://reactjs.org/)  [![TypeScript](https://img.shields.io/badge/TypeScript-5.5-blue.svg)](https://www.typescriptlang.org/)  [![Vite](https://img.shields.io/badge/Vite-5.4-646CFF.svg)](https://vitejs.dev/)  [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.4-38B2AC.svg)](https://tailwindcss.com/)
 
 ## Overview
 
@@ -18,6 +18,8 @@ Linux Command Explorer helps users discover and understand Linux commands throug
 - Detailed command examples
 - Links to official man pages
 - Modern, clean interface
+
+![Command](public/images/command.png)
 
 ## Quick Start
 
